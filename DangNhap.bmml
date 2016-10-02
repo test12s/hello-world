@@ -1,0 +1,61 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1364" measuredH="486" mockupW="1364" mockupH="475">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="11" w="1364" h="475" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::FieldSet" x="477" y="146" w="410" h="205" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Dang%20nhap</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="506" y="191" w="-1" h="-1" measuredW="96" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ten%20dang%20nhap%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="506" y="225" w="96" h="24" measuredW="63" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mat%20khau%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="602" y="191" w="246" h="-1" measuredW="79" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>focused</state>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="602" y="224" w="246" h="-1" measuredW="79" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>focused</state>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="666" y="296" w="-1" h="-1" measuredW="84" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>DangNhapThanhCong%26bm%3BDangNhapThanhCong.bmml%26bm%3BDangNhapThanhCong.bmml%26bm%3BDangNhapThanhCong.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22666%2C285%2C750%2C312%22%20href%3D%22DangNhapThanhCong.bmml%22%20alt%3D%22DangNhapThanhCong%22%20id%3D%226%22/%3E</map>
+        <text>Dang%20nhap</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::CheckBox" x="602" y="264" w="322" h="22" measuredW="105" measuredH="22" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>selected</state>
+        <text>Luu%20Tai%20Khoan</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="477" y="106" w="-1" h="-1" measuredW="152" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Dang%20nhap%20voi%20quyen%20User</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="724" y="106" w="-1" h="-1" measuredW="163" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>QuyenAdmin%26bm%3BQuyenAdmin.bmml%26bm%3BQuyenAdmin.bmml%26bm%3BQuyenAdmin.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22724%2C95%2C887%2C116%22%20href%3D%22QuyenAdmin.bmml%22%20alt%3D%22QuyenAdmin%22%20id%3D%229%22/%3E</map>
+        <text>Dang%20nhap%20voi%20quyen%20Admin%3A</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

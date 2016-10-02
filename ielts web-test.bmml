@@ -1,0 +1,64 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1365" measuredH="796" mockupW="1365" mockupH="796">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1365" h="796" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="227" y="256" w="-1" h="-1" measuredW="94" measuredH="24" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Thi%2CListening</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Link" x="321" y="358" w="-1" h="-1" measuredW="84" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>listen%26bm%3Blisten.bmml%26bm%3Blisten.bmml%26bm%3Blisten.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22321%2C358%2C405%2C379%22%20href%3D%22listen.bmml%22%20alt%3D%22listen%22%20id%3D%222%22/%3E</map>
+        <text>IELTS%20Test%201</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="322" y="322" w="-1" h="-1" measuredW="37" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bai%201%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="321" y="394" w="-1" h="-1" measuredW="40" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bai%202%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="321" y="450" w="-1" h="-1" measuredW="39" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bai%203%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="321" y="520" w="-1" h="-1" measuredW="40" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bai%204%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Link" x="321" y="418" w="-1" h="-1" measuredW="87" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>IELTS%20Test%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Link" x="321" y="484" w="-1" h="-1" measuredW="86" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>IELTS%20Test%203</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Link" x="321" y="556" w="-1" h="-1" measuredW="87" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>IELTS%20Test%204</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Accordion" x="0" y="165" w="139" h="193" measuredW="150" measuredH="267" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>DangNhapThanhCong%26bm%3BDangNhapThanhCong.bmml%26bm%3BDangNhapThanhCong.bmml%26bm%3BDangNhapThanhCong.bmml%2CThongTinHocVien%26bm%3BThongTinHocVien.bmml%26bm%3BThongTinHocVien.bmml%26bm%3BThongTinHocVien.bmml%2CLamBaiThi%26bm%3BLamBaiThi.bmml%26bm%3BLamBaiThi.bmml%26bm%3BLamBaiThi.bmml%2Cthu%20vien%26bm%3Bthu%20vien.bmml%26bm%3Bthu%20vien.bmml%26bm%3Bthu%20vien.bmml%2CLuaChonPhanLuyenThi%26bm%3BLuaChonPhanLuyenThi.bmml%26bm%3BLuaChonPhanLuyenThi.bmml%26bm%3BLuaChonPhanLuyenThi.bmml%2CXemDapAn%26bm%3BXemDapAn.bmml%26bm%3BXemDapAn.bmml%26bm%3BXemDapAn.bmml%2Cchiasetailieu%26bm%3Bchiasetailieu.bmml%26bm%3Bchiasetailieu.bmml%26bm%3Bchiasetailieu.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C165%2C139%2C195%22%20href%3D%22DangNhapThanhCong.bmml%22%20alt%3D%22DangNhapThanhCong%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C192%2C139%2C222%22%20href%3D%22ThongTinHocVien.bmml%22%20alt%3D%22ThongTinHocVien%22%20id%3D%2210_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C219%2C139%2C249%22%20href%3D%22LamBaiThi.bmml%22%20alt%3D%22LamBaiThi%22%20id%3D%2210_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C246%2C139%2C276%22%20href%3D%22thu%2520vien.bmml%22%20alt%3D%22thu%20vien%22%20id%3D%2210_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C273%2C139%2C303%22%20href%3D%22LuaChonPhanLuyenThi.bmml%22%20alt%3D%22LuaChonPhanLuyenThi%22%20id%3D%2210_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C301%2C139%2C331%22%20href%3D%22XemDapAn.bmml%22%20alt%3D%22XemDapAn%22%20id%3D%2210_5%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C328%2C139%2C358%22%20href%3D%22chiasetailieu.bmml%22%20alt%3D%22chiasetailieu%22%20id%3D%2210_6%22/%3E%0A</map>
+        <selectedIndex>4</selectedIndex>
+        <text>Trang%20chu%0ATai%20khoan%20hoc%20vien%0ALam%20Bai%20Thi%0AThu%20Vien%0ALuyen%20Thi%0AXem%20Dap%20An%0AChia%20se%20tai%20lieu</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

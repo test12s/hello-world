@@ -1,0 +1,62 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1352" measuredH="603" mockupW="1352" mockupH="603">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1351" h="603" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Web%20ho%20tro%20truc%20tuyen%20IELTS%20hang%20dau%20viet%20nam%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="3" y="59" w="1348" h="130" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="4" y="59" w="129" h="130" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../../C%3A/Users/Nguyen%2520Dinh%2520Phuc/Desktop/t%25E1%25BA%25A3i%2520xu%25E1%25BB%2591ng.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="133" y="59" w="1218" h="130" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../../C%3A/Users/Nguyen%2520Dinh%2520Phuc/Desktop/luyen-thi-ielts.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::MenuBar" x="0" y="189" w="1352" h="29" measuredW="787" measuredH="29" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>demo%26bm%3Bdemo.bmml%26bm%3Bdemo.bmml%26bm%3Bdemo.bmml%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2218%2C195%2C342%2C216%22%20href%3D%22demo.bmml%22%20alt%3D%22demo%22%20id%3D%224_0%22/%3E%0A</map>
+        <text>%09%09%09%09%09%09%09%09%09Trang%20chu%2C%20%09%09%09Gioi%20thieu%2C%20%09%09%09Blog%2C%20%09%09%09Lien%20he</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Webcam" x="1005" y="190" w="44" h="26" measuredW="177" measuredH="146" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Link" x="1063" y="193" w="-1" h="-1" measuredW="62" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>demo%26bm%3Bdemo.bmml%26bm%3Bdemo.bmml%26bm%3Bdemo.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221063%2C193%2C1125%2C214%22%20href%3D%22demo.bmml%22%20alt%3D%22demo%22%20id%3D%226%22/%3E</map>
+        <text>Dang%20xuat</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::SearchBox" x="1147" y="191" w="204" h="-1" measuredW="120" measuredH="25" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>search</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::List" x="4" y="281" w="128" h="190" measuredW="100" measuredH="126" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Trang%20Chu%0AQuan%20ly%20User%0ATin%20Nhan</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="197" y="254" w="-1" h="-1" measuredW="54" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tin%20Nhan</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="233" y="304" w="-1" h="-1" measuredW="43" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Gui%20Tin</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="413" y="304" w="-1" h="-1" measuredW="79" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hop%20Thu%20Den</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,222 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1369" measuredH="774" mockupW="1369" mockupH="768">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="6" w="1364" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="5" y="76" w="131" h="141" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>DangNhapThanhCong%26bm%3BDangNhapThanhCong.bmml%26bm%3BDangNhapThanhCong.bmml%26bm%3BDangNhapThanhCong.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%225%2C70%2C136%2C211%22%20href%3D%22DangNhapThanhCong.bmml%22%20alt%3D%22DangNhapThanhCong%22%20id%3D%221%22/%3E</map>
+        <src>../../../../C%3A/Users/Nguyen%2520Dinh%2520Phuc/Desktop/t%25E1%25BA%25A3i%2520xu%25E1%25BB%2591ng.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="136" y="76" w="1232" h="141" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../../../C%3A/Users/Nguyen%2520Dinh%2520Phuc/Desktop/LTW/luyen-thi-ielts.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::MenuBar" x="1" y="217" w="1368" h="32" measuredW="714" measuredH="29" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>DangNhapThanhCong%26bm%3BDangNhapThanhCong.bmml%26bm%3BDangNhapThanhCong.bmml%26bm%3BDangNhapThanhCong.bmml%2Cgioi%20thieu%26bm%3Bgioi%20thieu.bmml%26bm%3Bgioi%20thieu.bmml%26bm%3Bgioi%20thieu.bmml%2Clien%20he%26bm%3Blien%20he.bmml%26bm%3Blien%20he.bmml%26bm%3Blien%20he.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2219%2C218.5%2C343%2C239.5%22%20href%3D%22DangNhapThanhCong.bmml%22%20alt%3D%22DangNhapThanhCong%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22352%2C218.5%2C530%2C239.5%22%20href%3D%22gioi%2520thieu.bmml%22%20alt%3D%22gioi%20thieu%22%20id%3D%223_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22539%2C218.5%2C706%2C239.5%22%20href%3D%22lien%2520he.bmml%22%20alt%3D%22lien%20he%22%20id%3D%223_2%22/%3E%0A</map>
+        <text>%09%09%09%09%09%09%09%09%09Trang%20chu%2C%20%09%09%09%09Gioi%20thieu%2C%20%09%09%09%09Lien%20he</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Webcam" x="1018" y="218" w="45" h="28" measuredW="177" measuredH="146" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Link" x="1077" y="222" w="-1" h="-1" measuredW="62" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>demo%26bm%3Bdemo.bmml%26bm%3Bdemo.bmml%26bm%3Bdemo.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221077%2C216%2C1139%2C237%22%20href%3D%22demo.bmml%22%20alt%3D%22demo%22%20id%3D%225%22/%3E</map>
+        <text>Dang%20xuat</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::SearchBox" x="1162" y="219" w="206" h="-1" measuredW="120" measuredH="25" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>search</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::TabBar" x="222" y="299" w="1007" h="444" measuredW="200" measuredH="100" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Listening%2C%20Reading</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Button" x="1022" y="656" w="95" h="44" measuredW="79" measuredH="29" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Up%20file</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Button" x="869" y="656" w="114" h="44" measuredW="94" measuredH="29" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>ThongTinHocVien%26bm%3BThongTinHocVien.bmml%26bm%3BThongTinHocVien.bmml%26bm%3BThongTinHocVien.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22869%2C650%2C983%2C694%22%20href%3D%22ThongTinHocVien.bmml%22%20alt%3D%22ThongTinHocVien%22%20id%3D%2244%22/%3E</map>
+        <size>20</size>
+        <text>Quay%20lai</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::TextInput" x="353" y="413" w="267" h="-1" measuredW="79" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Button" x="642" y="415" w="-1" h="-1" measuredW="67" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Browse</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::TextInput" x="353" y="447" w="267" h="-1" measuredW="79" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::TextInput" x="353" y="483" w="267" h="-1" measuredW="79" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::TextInput" x="353" y="519" w="267" h="-1" measuredW="79" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Button" x="642" y="447" w="-1" h="-1" measuredW="67" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Browse</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Button" x="642" y="483" w="-1" h="-1" measuredW="67" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Browse</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Button" x="642" y="519" w="-1" h="-1" measuredW="67" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Browse</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Label" x="353" y="392" w="-1" h="-1" measuredW="82" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>File%20wav%2Cmp3</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="353" y="550" w="-1" h="-1" measuredW="57" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>File%20word</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::VRule" x="724" y="419" w="-1" h="280" measuredW="10" measuredH="100" zOrder="20" locked="false" isInGroup="-1"/>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::TextInput" x="353" y="575" w="267" h="-1" measuredW="79" measuredH="27" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::TextInput" x="353" y="608" w="267" h="-1" measuredW="79" measuredH="27" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::TextInput" x="353" y="643" w="267" h="-1" measuredW="79" measuredH="27" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::TextInput" x="353" y="672" w="267" h="-1" measuredW="79" measuredH="27" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Button" x="642" y="577" w="-1" h="-1" measuredW="67" measuredH="27" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Browse</text>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Button" x="642" y="608" w="-1" h="-1" measuredW="67" measuredH="27" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Browse</text>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Button" x="642" y="643" w="-1" h="-1" measuredW="67" measuredH="27" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Browse</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Button" x="642" y="671" w="-1" h="-1" measuredW="67" measuredH="27" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Browse</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::TextInput" x="444" y="330" w="653" h="-1" measuredW="79" measuredH="27" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Label" x="343" y="329" w="-1" h="-1" measuredW="95" measuredH="28" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Ten%20de%20thi</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Label" x="755" y="392" w="-1" h="-1" measuredW="99" measuredH="21" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Dap%20an%20file%20.docx</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::TextInput" x="755" y="419" w="267" h="-1" measuredW="79" measuredH="27" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::TextInput" x="755" y="452" w="267" h="-1" measuredW="79" measuredH="27" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::TextInput" x="755" y="487" w="267" h="-1" measuredW="79" measuredH="27" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::TextInput" x="755" y="516" w="267" h="-1" measuredW="79" measuredH="27" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Button" x="1044" y="421" w="-1" h="-1" measuredW="67" measuredH="27" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Browse</text>
+      </controlProperties>
+    </control>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::Button" x="1044" y="452" w="-1" h="-1" measuredW="67" measuredH="27" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Browse</text>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Button" x="1044" y="487" w="-1" h="-1" measuredW="67" measuredH="27" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Browse</text>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Button" x="1044" y="515" w="-1" h="-1" measuredW="67" measuredH="27" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Browse</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Accordion" x="0" y="246" w="139" h="193" measuredW="150" measuredH="267" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>DangNhapThanhCong%26bm%3BDangNhapThanhCong.bmml%26bm%3BDangNhapThanhCong.bmml%26bm%3BDangNhapThanhCong.bmml%2CThongTinHocVien%26bm%3BThongTinHocVien.bmml%26bm%3BThongTinHocVien.bmml%26bm%3BThongTinHocVien.bmml%2CLamBaiThi%26bm%3BLamBaiThi.bmml%26bm%3BLamBaiThi.bmml%26bm%3BLamBaiThi.bmml%2Cthu%20vien%26bm%3Bthu%20vien.bmml%26bm%3Bthu%20vien.bmml%26bm%3Bthu%20vien.bmml%2CLuaChonPhanLuyenThi%26bm%3BLuaChonPhanLuyenThi.bmml%26bm%3BLuaChonPhanLuyenThi.bmml%26bm%3BLuaChonPhanLuyenThi.bmml%2CXemDapAn%26bm%3BXemDapAn.bmml%26bm%3BXemDapAn.bmml%26bm%3BXemDapAn.bmml%2Cchiasetailieu%26bm%3Bchiasetailieu.bmml%26bm%3Bchiasetailieu.bmml%26bm%3Bchiasetailieu.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C240%2C139%2C270%22%20href%3D%22DangNhapThanhCong.bmml%22%20alt%3D%22DangNhapThanhCong%22%20id%3D%2275_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C267%2C139%2C297%22%20href%3D%22ThongTinHocVien.bmml%22%20alt%3D%22ThongTinHocVien%22%20id%3D%2275_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C294%2C139%2C324%22%20href%3D%22LamBaiThi.bmml%22%20alt%3D%22LamBaiThi%22%20id%3D%2275_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C321%2C139%2C351%22%20href%3D%22thu%2520vien.bmml%22%20alt%3D%22thu%20vien%22%20id%3D%2275_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C348%2C139%2C378%22%20href%3D%22LuaChonPhanLuyenThi.bmml%22%20alt%3D%22LuaChonPhanLuyenThi%22%20id%3D%2275_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C376%2C139%2C406%22%20href%3D%22XemDapAn.bmml%22%20alt%3D%22XemDapAn%22%20id%3D%2275_5%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C403%2C139%2C433%22%20href%3D%22chiasetailieu.bmml%22%20alt%3D%22chiasetailieu%22%20id%3D%2275_6%22/%3E%0A</map>
+        <selectedIndex>4</selectedIndex>
+        <text>Trang%20chu%0ATai%20khoan%20hoc%20vien%0ALam%20Bai%20Thi%0AThu%20Vien%0ALuyen%20Thi%0AXem%20Dap%20An%0AChia%20se%20tai%20lieu</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Image" x="1" y="439" w="135" h="246" measuredW="77" measuredH="79" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
